@@ -60,3 +60,6 @@ Use any library or no library to build a carousel experience similar to what's d
 Use the mockData again to populate the carousel properly with images. 
 The user can scroll the carousel left or right depending if content is available.  
 As the carousel scrolls if the time stamp / tee_time of a thumbnail changes to the next Tee Time slot we need to update the selected state of the tee time slider accordingly (e.g. 10:10 → 10:15…etc)
+
+## 3 Pictures:
+Pictures were taken as stated in the task, but we think that there is an error
