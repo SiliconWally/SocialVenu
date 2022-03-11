@@ -1,0 +1,28 @@
+.main {
+  width: 100%;
+  margin: 46px 0;
+}
+
+.title {
+  margin: 0 -14px;
+
+  color: #fff;
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 800;
+}
+
+.subtitle {
+  color: #fff;
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 400;
+}
+
+.teeTimesContainer {
+  margin: 15px -24px 0;
+}
+
+.thumbnailsContainer {
+  margin: 40px -24px;
+}
